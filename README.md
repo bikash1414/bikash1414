@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bikash1414
-- 👀 I’m interested in Cyber Security
+- 👀 I’m a Cyber Security Professional
 - 🌱 I’m currently learning ArcSight
 - 💞️ I’m looking to collaborate on Project for SOC ANalyst
 - 
